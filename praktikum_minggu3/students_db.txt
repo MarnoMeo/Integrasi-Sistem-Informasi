@@ -1,0 +1,3 @@
+2415354001,I Made Sujana,Teknologi Informasi,ACTIVE
+2415354002,Ni Putu Ayu,Teknologi Informasi,ACTIVE
+2415354003,Ketut Darmada,Teknik Elektro,SUSPENDED2415354004,Wayan Gina,Teknologi Rekayasa,ACTIVE
