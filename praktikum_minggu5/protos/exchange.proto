@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+package exchange;
+
+message StudentRequest {
+    string student_id = 1;
+    string student_name = 2;
+    int64 sent_timestamp_ns = 3; 
+}
+
+message StudentResponse {
+    bool status = 1;
+}
+
+service ExchangeService {
+    rpc SendData (StudentRequest) returns (StudentResponse);
+}
